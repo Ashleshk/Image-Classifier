@@ -12,7 +12,7 @@ Train the classifier layers using backpropagation using the pre-trained network 
 Track the loss and accuracy on the validation set to determine the best hyperparameters
 
 ## Result
-![Result]()
+![Result](https://github.com/Ashleshk/Image-Classifier/blob/main/Result.PNG)
 
 ##learning Tips
 When training make sure you're updating only the weights of the feed-forward network. You should be able to get the validation accuracy above 70% if you build everything right. Make sure to try different hyperparameters (learning rate, units in the classifier, epochs, etc) to find the best model. Save those hyperparameters to use as default values in the next part of the project.
